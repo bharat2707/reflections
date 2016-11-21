@@ -1,6 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
-
+    When the repository is ready to be shared with the public..In mentors case when it is ready to be shared with the prospective students :)
     
 
 Why might you want to always pull changes manually rather than having Git
